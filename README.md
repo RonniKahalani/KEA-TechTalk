@@ -1,3 +1,3 @@
-#KEA TechTalk GitHub
+# KEA TechTalk
 
-This is a repository of code snippets and presentation material from our TechTalk sessions.
+This repository contains code snippets and material from our TechTalk sessions.
