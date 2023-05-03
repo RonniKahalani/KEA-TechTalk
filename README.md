@@ -1,6 +1,6 @@
 # KEA TechTalk
 
-This repository contains a TechTalk archive and code snippets from other internal events.
+This repository contains a [TechTalk archive](/talks) and code snippets from other internal events.
 
 
 ## Additional repositories
