@@ -2,4 +2,7 @@
 
 This repository contains public material and code snippets from our TechTalk sessions.
 
-- [May 8th 2023: Agile & DevOps at Topdanmark, by Nikolaj Ougaard](/2023/Agile-DevOps-Topdanmark)
+
+"" Additional repositories
+These are code oriented GitHub sites, from students and teachers.
+- [RonniKahalani](https://github.com/RonniKahalani) Web and Java backend examples.
